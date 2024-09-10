@@ -90,8 +90,8 @@ a {
 }
 
 .menu a:hover {
-    background: #074173;
-    color: #9ed1f5;
+    /* background: #074173; */
+    color: #fa0738;
 }
 
 .welcome-msg {
